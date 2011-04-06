@@ -1,1 +1,1 @@
-web ./vendor/squeakvm -pathenc UTF-8 -encoding UTF-8 -plugins ./vendor/%n -vm-display-null Seaside.image PORT $PORT
+web ./vendor/squeakvm -pathenc UTF-8 -encoding UTF-8 -plugins ./vendor/%n -vm-display-null Seaside.image '' PORT $PORT
