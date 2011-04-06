@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+0fb63093a782ecf3f41bda621d16db77 CMakeFiles/squeak
+f2b44cceda88159bdefbd6a93adc69c3 CMakeFiles/squeak.1
+bbcd199749312cb175df3fea7440a76d CMakeFiles/squeak.sh
+6c0ca1f23a3ac3dcc257f93a74f7287e version.c

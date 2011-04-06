@@ -1,0 +1,1 @@
+/usr/bin/gcc  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,so.vm-sound-null -o so.vm-sound-null CMakeFiles/vm-sound-null.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/vm-sound-null/sqUnixSoundNull.c.o 

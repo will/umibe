@@ -1,0 +1,1 @@
+/usr/bin/gcc  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,so.FileCopyPlugin -o so.FileCopyPlugin CMakeFiles/FileCopyPlugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/src/plugins/FileCopyPlugin/FileCopyPlugin.c.o CMakeFiles/FileCopyPlugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/plugins/FileCopyPlugin/sqUnixFileCopyPlugin.c.o 

@@ -1,0 +1,2 @@
+/usr/bin/ar cr libSocketPlugin.a  CMakeFiles/SocketPlugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/src/vm/intplugins/SocketPlugin/SocketPlugin.c.o CMakeFiles/SocketPlugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/plugins/SocketPlugin/sqUnixSocket.c.o
+/usr/bin/ranlib libSocketPlugin.a

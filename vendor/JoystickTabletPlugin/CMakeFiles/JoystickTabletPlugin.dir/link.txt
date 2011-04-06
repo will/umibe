@@ -1,0 +1,2 @@
+/usr/bin/ar cr libJoystickTabletPlugin.a  CMakeFiles/JoystickTabletPlugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/src/vm/intplugins/JoystickTabletPlugin/JoystickTabletPlugin.c.o CMakeFiles/JoystickTabletPlugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/plugins/JoystickTabletPlugin/sqUnixJoystickTablet.c.o
+/usr/bin/ranlib libJoystickTabletPlugin.a

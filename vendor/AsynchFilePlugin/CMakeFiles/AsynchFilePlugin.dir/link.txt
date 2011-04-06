@@ -1,0 +1,2 @@
+/usr/bin/ar cr libAsynchFilePlugin.a  CMakeFiles/AsynchFilePlugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/src/vm/intplugins/AsynchFilePlugin/AsynchFilePlugin.c.o CMakeFiles/AsynchFilePlugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/plugins/AsynchFilePlugin/sqUnixAsynchFile.c.o
+/usr/bin/ranlib libAsynchFilePlugin.a

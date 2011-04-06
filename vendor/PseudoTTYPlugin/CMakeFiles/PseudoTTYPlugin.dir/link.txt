@@ -1,0 +1,1 @@
+/usr/bin/gcc  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,so.PseudoTTYPlugin -o so.PseudoTTYPlugin CMakeFiles/PseudoTTYPlugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/src/plugins/PseudoTTYPlugin/PseudoTTYPlugin.c.o CMakeFiles/PseudoTTYPlugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/plugins/PseudoTTYPlugin/sqUnixPseudoTTYPlugin.c.o -lutil -lutil 

@@ -1,0 +1,2 @@
+/usr/bin/ar cr libFloatArrayPlugin.a  CMakeFiles/FloatArrayPlugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/src/vm/intplugins/FloatArrayPlugin/FloatArrayPlugin.c.o
+/usr/bin/ranlib libFloatArrayPlugin.a

@@ -1,0 +1,2 @@
+/usr/bin/ar cr libZipPlugin.a  CMakeFiles/ZipPlugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/src/vm/intplugins/ZipPlugin/ZipPlugin.c.o
+/usr/bin/ranlib libZipPlugin.a

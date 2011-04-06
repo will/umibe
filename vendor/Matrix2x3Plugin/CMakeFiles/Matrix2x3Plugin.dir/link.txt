@@ -1,0 +1,2 @@
+/usr/bin/ar cr libMatrix2x3Plugin.a  CMakeFiles/Matrix2x3Plugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/src/vm/intplugins/Matrix2x3Plugin/Matrix2x3Plugin.c.o
+/usr/bin/ranlib libMatrix2x3Plugin.a

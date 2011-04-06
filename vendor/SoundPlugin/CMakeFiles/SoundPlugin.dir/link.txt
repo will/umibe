@@ -1,0 +1,2 @@
+/usr/bin/ar cr libSoundPlugin.a  CMakeFiles/SoundPlugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/src/vm/intplugins/SoundPlugin/SoundPlugin.c.o CMakeFiles/SoundPlugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/plugins/SoundPlugin/sqUnixSound.c.o
+/usr/bin/ranlib libSoundPlugin.a

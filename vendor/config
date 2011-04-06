@@ -1,0 +1,15 @@
+#!/bin/sh
+
+# echo "Configuring `basename $1` -> `basename $2`" >&2
+
+sed "
+s%\[version\]%3.11.3-2135%g
+s%\[major\]%3%g
+s%\[minor\]%11%g
+s%\[patch\]%3%g
+s%\[bindir\]%/usr/local/bin%g
+s%\[imgdir\]%/usr/local/lib/squeak%g
+s%\[plgdir\]%/usr/local/lib/squeak/3.11.3-2135%g
+s%\[mandir\]%/usr/local/man/man1%g
+s%\[docdir\]%/usr/local/share/doc/squeak-3.11.3-2135%g
+" < $1 > $2

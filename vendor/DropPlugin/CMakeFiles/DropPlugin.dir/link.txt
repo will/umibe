@@ -1,0 +1,2 @@
+/usr/bin/ar cr libDropPlugin.a  CMakeFiles/DropPlugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/src/vm/intplugins/DropPlugin/DropPlugin.c.o CMakeFiles/DropPlugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/plugins/DropPlugin/sqUnixDragDrop.c.o
+/usr/bin/ranlib libDropPlugin.a

@@ -1,0 +1,1 @@
+/usr/bin/gcc  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,so.vm-display-custom -o so.vm-display-custom CMakeFiles/vm-display-custom.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/vm-display-custom/sqUnixCustomWindow.c.o 

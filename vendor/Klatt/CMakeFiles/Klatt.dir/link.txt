@@ -1,0 +1,2 @@
+/usr/bin/ar cr libKlatt.a  CMakeFiles/Klatt.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/src/vm/intplugins/Klatt/Klatt.c.o
+/usr/bin/ranlib libKlatt.a

@@ -1,0 +1,2 @@
+/usr/bin/ar cr libBMPReadWriterPlugin.a  CMakeFiles/BMPReadWriterPlugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/src/vm/intplugins/BMPReadWriterPlugin/BMPReadWriterPlugin.c.o
+/usr/bin/ranlib libBMPReadWriterPlugin.a

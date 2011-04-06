@@ -1,0 +1,15 @@
+ADD_DEFINITIONS (-DSQUEAK_BUILTIN_PLUGIN=1 ${FloatMathPlugin_definitions})
+LINK_DIRECTORIES (${FloatMathPlugin_link_directories})
+INCLUDE_DIRECTORIES (${FloatMathPlugin_include_directories}
+    ${bld}
+    ${src}/vm
+    ${cross}/vm
+    ${src}/plugins/FloatMathPlugin
+    ${src}/vm/intplugins/FloatMathPlugin
+    ${unix}/vm
+    ${unix}/plugins/FloatMathPlugin
+    ${unix}/FloatMathPlugin
+    ${cross}/plugins/FloatMathPlugin
+)
+
+ADD_LIBRARY (FloatMathPlugin STATIC  /home/ubuntu/Squeak-3.11.3.2135-src/unix/src/vm/intplugins/FloatMathPlugin/FloatMathPlugin.c /home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/sin.c;/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/exp.c;/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/expm1.c;/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/asinh.c;/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/acosh.c;/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/scalb.c;/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/hypot.c;/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/k_cos.c;/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/cosh.c;/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/atan.c;/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/log.c;/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/k_sin.c;/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/tan.c;/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/acos.c;/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/sinh.c;/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/log1p.c;/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/log10.c;/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/finite.c;/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/ldexp.c;/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/atan2.c;/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/cos.c;/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/k_rem_pio2.c;/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/asin.c;/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/rint.c;/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/tanh.c;/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/sqrt.c;/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/rem_pio2.c;/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/modf.c;/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/scalbn.c;/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/k_tan.c;/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/fmod.c;/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/copysign.c;/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/pow.c;/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/atanh.c;/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FloatMathPlugin/isnan.c )

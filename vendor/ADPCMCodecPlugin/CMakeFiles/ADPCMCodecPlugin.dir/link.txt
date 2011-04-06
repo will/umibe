@@ -1,0 +1,2 @@
+/usr/bin/ar cr libADPCMCodecPlugin.a  CMakeFiles/ADPCMCodecPlugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/src/vm/intplugins/ADPCMCodecPlugin/ADPCMCodecPlugin.c.o
+/usr/bin/ranlib libADPCMCodecPlugin.a

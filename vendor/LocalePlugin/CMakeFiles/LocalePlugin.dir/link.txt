@@ -1,0 +1,2 @@
+/usr/bin/ar cr libLocalePlugin.a  CMakeFiles/LocalePlugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/src/vm/intplugins/LocalePlugin/LocalePlugin.c.o CMakeFiles/LocalePlugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/plugins/LocalePlugin/sqUnixLocale.c.o
+/usr/bin/ranlib libLocalePlugin.a

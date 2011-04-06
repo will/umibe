@@ -1,0 +1,2 @@
+/usr/bin/ar cr libB2DPlugin.a  CMakeFiles/B2DPlugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/src/vm/intplugins/B2DPlugin/B2DPlugin.c.o
+/usr/bin/ranlib libB2DPlugin.a

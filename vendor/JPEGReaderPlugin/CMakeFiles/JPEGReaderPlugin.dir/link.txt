@@ -1,0 +1,2 @@
+/usr/bin/ar cr libJPEGReaderPlugin.a  CMakeFiles/JPEGReaderPlugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/src/vm/intplugins/JPEGReaderPlugin/JPEGReaderPlugin.c.o
+/usr/bin/ranlib libJPEGReaderPlugin.a

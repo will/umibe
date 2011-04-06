@@ -1,0 +1,2 @@
+/usr/bin/ar cr libRePlugin.a  CMakeFiles/RePlugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/src/vm/intplugins/RePlugin/RePlugin.c.o CMakeFiles/RePlugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/RePlugin/get.c.o CMakeFiles/RePlugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/RePlugin/study.c.o CMakeFiles/RePlugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/RePlugin/pcre.c.o CMakeFiles/RePlugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/RePlugin/chartables.c.o
+/usr/bin/ranlib libRePlugin.a

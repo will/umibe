@@ -1,0 +1,2 @@
+/usr/bin/ar cr libFilePlugin.a  CMakeFiles/FilePlugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/src/vm/intplugins/FilePlugin/FilePlugin.c.o CMakeFiles/FilePlugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/FilePlugin/sqFilePluginBasicPrims.c.o CMakeFiles/FilePlugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/plugins/FilePlugin/sqUnixFile.c.o
+/usr/bin/ranlib libFilePlugin.a

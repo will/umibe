@@ -1,0 +1,2 @@
+/usr/bin/ar cr libSoundCodecPrims.a  CMakeFiles/SoundCodecPrims.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/src/vm/intplugins/SoundCodecPrims/SoundCodecPrims.c.o CMakeFiles/SoundCodecPrims.dir/home/ubuntu/Squeak-3.11.3.2135-src/Cross/plugins/SoundCodecPrims/sqSoundCodecPluginBasicPrims.c.o
+/usr/bin/ranlib libSoundCodecPrims.a

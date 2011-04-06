@@ -1,0 +1,2 @@
+/usr/bin/ar cr libBitBltPlugin.a  CMakeFiles/BitBltPlugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/src/vm/intplugins/BitBltPlugin/BitBltPlugin.c.o
+/usr/bin/ranlib libBitBltPlugin.a

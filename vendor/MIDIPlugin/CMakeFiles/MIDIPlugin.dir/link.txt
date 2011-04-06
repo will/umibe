@@ -1,0 +1,1 @@
+/usr/bin/gcc  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,so.MIDIPlugin -o so.MIDIPlugin CMakeFiles/MIDIPlugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/src/plugins/MIDIPlugin/MIDIPlugin.c.o CMakeFiles/MIDIPlugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/plugins/MIDIPlugin/sqUnixMIDI.c.o 

@@ -1,0 +1,1 @@
+/usr/bin/gcc  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,so.vm-sound-custom -o so.vm-sound-custom CMakeFiles/vm-sound-custom.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/vm-sound-custom/sqUnixCustomSound.c.o 

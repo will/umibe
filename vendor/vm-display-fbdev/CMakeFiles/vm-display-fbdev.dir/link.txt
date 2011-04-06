@@ -1,0 +1,1 @@
+/usr/bin/gcc  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,so.vm-display-fbdev -o so.vm-display-fbdev CMakeFiles/vm-display-fbdev.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/vm-display-fbdev/sqUnixFBDev.c.o 

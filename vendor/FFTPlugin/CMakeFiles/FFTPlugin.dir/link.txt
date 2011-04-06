@@ -1,0 +1,2 @@
+/usr/bin/ar cr libFFTPlugin.a  CMakeFiles/FFTPlugin.dir/home/ubuntu/Squeak-3.11.3.2135-src/unix/src/vm/intplugins/FFTPlugin/FFTPlugin.c.o
+/usr/bin/ranlib libFFTPlugin.a
